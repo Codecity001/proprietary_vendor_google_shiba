@@ -16,8 +16,8 @@ telekom_gr
 
 20209
 20209
-
-nova_gr
+
+20210
 20210
 
 20402
@@ -92,7 +92,7 @@ tmomvno_nl
 20416"2F
 
 
-tmobile_nl
+tmomvno_nl
 20416"4E4C
 
 
@@ -100,7 +100,7 @@ tmomvno_nl
 20416"5F
 
 
-tmobile_nl
+tmomvno_nl
 20416"8F
 
 
@@ -196,11 +196,6 @@ Lycamobile
 
 20801GID1=52
 20801"52
-!
-
-webbing_hk
-20801"
-536E617065
 
 
 rakuten_jp
@@ -253,9 +248,6 @@ rakuten_jp
 *
 truphone_zz
 20812"547275554B3030656E
-
-iliad_it
-20815"F003
 
 free_fr
 20815
@@ -336,9 +328,6 @@ jazztel_es
 "
 euskaltel_es
 21404	EUSKALTEL
- 
-masmovil_es
-21404MASMOVIL
 "
 pepephone_es
 21404	Pepephone
@@ -364,8 +353,8 @@ mobiler_es
  
 telecable_es
 214062140613
-
-lowi_es
+
+low_es
 21406Lowi
 (
 21406SPN=PEPEPHONE
@@ -750,9 +739,6 @@ $
 lycamobile_at
 23208
 Lycamobile
-
-a1_at
-23209
 
 fi_at
 23210"0306
@@ -792,11 +778,6 @@ $
 
 giffgaff_gb
 23410"50
-!
-
-webbing_hk
-23410"
-536E617065
 *
 truphone_zz
 23410"547275554B3030656E
@@ -840,8 +821,8 @@ webbing_hk
 
 talkmobile_gb
 23415"C1
-
-	lebara_gb
+"
+23415SPN=LEBARA
 23415LEBARA
 ,
 23415SPN=SAINSBURY'S
@@ -1395,12 +1376,6 @@ Lycamobile
 
 meo_pt
 26806
-
-vodafone_pt
-26891
-
-vodafone_pt
-26892
 
 nos_pt
 26897
@@ -1416,8 +1391,8 @@ Lycamobile
 
 mtx_lu
 27002
-
-tango_lu
+
+27077
 27077
 
 	orange_lu
@@ -1655,9 +1630,6 @@ Lycamobile
 
 sasktel_ca
 302681
-
-	u264ab_ca
-302690"F1
 
 rogers5g_ca
 302720"A4
@@ -1696,9 +1668,6 @@ tbaytel_ca
 
 sasktel_ca
 302780"5A
-
-lum_ca
-302780"5B
 
 
 sasktel_ca
@@ -2337,9 +2306,6 @@ tmobile_us
 
 xfinity_us
 310590"BA01450000000000
-)
-xfinity2_us
-310590"BA01640000000000
 
 
 verizon_us
@@ -2348,16 +2314,10 @@ verizon_us
 
 xfinity_us
 310591"BA01450000000000
-)
-xfinity2_us
-310591"BA01640000000000
 (
 
 xfinity_us
 310599"BA01450000000000
-)
-xfinity2_us
-310599"BA01640000000000
 
 
 verizon_us
@@ -2763,9 +2723,6 @@ xfinity_us
 $
 cox_us
 311480"BA01570000000000
-)
-xfinity2_us
-311480"BA01640000000000
 (
 
 visible_us
@@ -2781,65 +2738,38 @@ verizon_us
 
 xfinity_us
 311481"BA01450000000000
-)
-xfinity2_us
-311481"BA01640000000000
 (
 
 xfinity_us
 311482"BA01450000000000
-)
-xfinity2_us
-311482"BA01640000000000
 (
 
 xfinity_us
 311483"BA01450000000000
-)
-xfinity2_us
-311483"BA01640000000000
 (
 
 xfinity_us
 311484"BA01450000000000
-)
-xfinity2_us
-311484"BA01640000000000
 (
 
 xfinity_us
 311485"BA01450000000000
-)
-xfinity2_us
-311485"BA01640000000000
 (
 
 xfinity_us
 311486"BA01450000000000
-)
-xfinity2_us
-311486"BA01640000000000
 (
 
 xfinity_us
 311487"BA01450000000000
-)
-xfinity2_us
-311487"BA01640000000000
 (
 
 xfinity_us
 311488"BA01450000000000
-)
-xfinity2_us
-311488"BA01640000000000
 (
 
 xfinity_us
 311489"BA01450000000000
-)
-xfinity2_us
-311489"BA01640000000000
 
 metropcs_us
 311490"6D38
@@ -2919,11 +2849,6 @@ MOSAIC RPT
 
 uscc_us
 311587
-"
-
-webbing_hk
-311588"
-536E617065
 
 uscc_us
 311588
@@ -3096,9 +3021,6 @@ liberty_pr
 
 xfinitymso_us
 314200
-
-xfinity2_us
-314240
 
 	google_us
 315010
@@ -3115,8 +3037,8 @@ OPENMOBILE
 
 claro_pr
 330110
-
-	telcel_mx
+
+334020
 334020
 
 33403
@@ -4628,11 +4550,6 @@ lguplus_kr
 
 45208
 45208
-!
-
-webbing_hk
-45400"
-536E617065
 *
 truphone_zz
 45400"547275554B3030656E
@@ -4969,8 +4886,8 @@ telstra_au
 
 truemove_th
 52004
-
-dtac_th
+
+52005
 52005
 
 52015
@@ -5818,11 +5735,6 @@ Lycamobile
 
 72439
 72439
-!
-
-webbing_hk
-72454"
-536E617065
 
 72454
 72454
@@ -5850,11 +5762,6 @@ webbing_hk
 
 73010
 73010
-"
-
-webbing_hk
-732101"
-536E617065
 
 732101
 732101
@@ -5970,8 +5877,8 @@ webbing_hk
 
 74603
 74603
-
-antel_uy
+
+74801
 74801
 
 74807
@@ -5979,24 +5886,12 @@ webbing_hk
 
 74810
 74810
-
-
-webbing_hk
-90101
-!
-
-webbing_hk
-90131"
-536E617065
 
 ubigi_de
 90137Ubigi
 
 bics_be
 90158
-
-skylo_zz
-90198
 
 verizononsitelte_us
-999480Êªöï…"˝Åè¨
+999480ﬂìƒ€¡"˝í√®
